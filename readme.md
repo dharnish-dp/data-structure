@@ -16,23 +16,6 @@ This repository contains solutions and implementations of various data structure
   - Sliding window problems
 - `.git/` - Git version control system files
 
-## Technologies Used
-
-- Programming Languages:
-  - Python
-  - Java
-  - C++
-- Development Tools:
-  - Git for version control
-  - VS Code/IntelliJ IDEA for development
-
-## Prerequisites
-
-Before you begin, ensure you have the following installed:
-- Python 3.x or Java 8+ or C++ compiler
-- Git
-- A code editor of your choice
-
 ## Getting Started
 
 1. Clone this repository
@@ -80,23 +63,6 @@ This repository serves as a collection of solutions for various programming prob
 4. Compare your solution with the provided solution
 5. Learn from different approaches and optimizations
 
-## Contributing
-
-Feel free to contribute by:
-1. Adding new solutions
-2. Improving existing solutions
-3. Adding new problem categories
-4. Fixing bugs or improving documentation
-5. Adding test cases
-6. Improving code comments and documentation
-
-## Code Style Guidelines
-
-- Use meaningful variable and function names
-- Add comments for complex logic
-- Follow language-specific coding conventions
-- Include time and space complexity analysis
-- Add test cases where applicable
 
 ## License
 
