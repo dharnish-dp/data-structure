@@ -2,20 +2,6 @@
 
 This repository contains solutions and implementations of various data structures and algorithms problems. It's organized into different sections to help in learning and practicing programming concepts.
 
-## Project Structure
-
-- `basic_level/` - Contains basic programming problems and implementations
-  - Array manipulation
-  - String operations
-  - Basic sorting algorithms
-  - Simple data structures
-- `two_pointer/` - Solutions using the two-pointer technique
-  - Array problems
-  - Linked list problems
-  - String manipulation
-  - Sliding window problems
-- `.git/` - Git version control system files
-
 ## Getting Started
 
 1. Clone this repository
